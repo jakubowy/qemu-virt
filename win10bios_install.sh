@@ -27,7 +27,7 @@ else
       vfiobind $line
    done
 
-#cp /usr/share/OVMF/OVMF_VARS.fd /media/jakubowy/VM/$vmname.fd
+#cp /usr/share/OVMF/OVMF_VARS.fd /media/VM/$vmname.fd
 
 ## VM INITIALISATION
 
